@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Pavithradharshini S |
+| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pavithradharshini-saravanan-2a10a1291/) |
+| **Location** | Coimbatore, India |
+| **Background** | Cloud, DevOps & Full Stack Engineer |
+| **Goal** | To build and innovate practical solutions |
 
 ---
 

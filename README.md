@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | Pavithradharshini S |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pavithradharshini-saravanan-2a10a1291/) |
+| **LinkedIn** | [Pavithradharshini-Developer](https://www.linkedin.com/in/pavithradharshini-saravanan-2a10a1291/) |
 | **Location** | Coimbatore, India |
 | **Background** | Cloud, DevOps & Full Stack Engineer |
 | **Goal** | To build and innovate practical solutions |

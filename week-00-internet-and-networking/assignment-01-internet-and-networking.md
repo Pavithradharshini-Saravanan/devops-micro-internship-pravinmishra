@@ -1,5 +1,5 @@
 # Week 00 - Internet and Networking
-
+ 
 Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ---
@@ -34,7 +34,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a protocol is a set of rules that helps devices communicate with each other over a network. It is similar to how people follow common rules while communicating so that both sides can understand each other
+
 
 ---
 
@@ -59,7 +60,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user anywhere in the world opens the EpicReads website, their request travels through the internet using packet switching. The data is broken into small packets, which can travel through different paths and are put back together when they reach the destination. The website hosted in Finland has an IP address that helps identify the server where the website is located. TCP/IP provides the basic rules for sending these packets reliably between the user's device and the server. Once the connection is established, HTTP or HTTPS is used to request and transfer the website's content. HTTPS is preferred because it encrypts the communication, helping protect user information such as login details and payment data.
+
 
 ---
 
@@ -102,18 +104,16 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React
+* HTML\CSS\JS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js\Fast API
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MongoDB\MySQL
 
 ---
 
@@ -142,7 +142,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the phonebook of the internet. It converts an easy-to-remember domain name such as epicreads.com into the IP address of the server where the website is hosted. To connect epicreads.com to 52.172.142.222, an A record should be used because an A record maps a domain name to an IPv4 address. This allows users to type the domain name instead of remembering the numerical IP address.
 
 ---
 
@@ -229,9 +229,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
+https://lnkd.in/p/g6hgvgiY
 
 ---
 
@@ -239,7 +237,14 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Completed Week 0 of my DevOps Micro Internship (DMI).
+
+As part of this week's tasks, I worked on prompt engineering with ChatGPT, revisited internet and networking concepts, and worked with two-tier and three-tier application architecture.
+
+I also covered the basics of DNS and A records using a real-world website scenario and set up my VS Code environment with the integrated terminal.
+The tasks were a good way to organize and document these concepts as part of the DMI journey. Looking forward to the upcoming weeks and getting into more hands-on work.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://lnkd.in/gTbzRWn3 · Start your DevOps journey: https://lnkd.in/gyCX6mV4
 
 ---
 
@@ -247,19 +252,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+The networking and application architecture tasks were easy to work through since I was already familiar with most of the concepts.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+The main challenge was putting everything together in the required format and making sure the screenshots and assignment structure were correct.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I want to focus more on the hands-on parts and get more comfortable with the DevOps tools and workflows used in the upcoming tasks.
 
 ---
 
